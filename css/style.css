@@ -1,7 +1,7 @@
 body{
     margin : 0;
     padding: 0;
-    background: beige;
+    background: #f7edd7;
     font-family: native, sans-serif;
 }
 
@@ -11,7 +11,7 @@ body{
     /* border: 1px solid; */
     height: 80px;
     width: 100%;
-    background-color: rgba(128,128,128, 0.4);
+    background-color: rgba(157,151,151, 0.7);
     background-repeat: no-repeat;
     display: flex;
     justify-content: space-around;
