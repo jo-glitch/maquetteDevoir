@@ -1,0 +1,57 @@
+@media screen and (max-width: 990px){
+    #main-container{
+        height: 100%;
+    }
+    #main-section{
+        height: 40%;
+    }
+    #text-section{
+        display: block;
+    }
+    #left-main-section{
+        width: 95%;
+        height: 50%;
+        margin-bottom: 40px;
+    }
+    #right-main-section{
+        display: flex;
+        height: 35%;
+        width: 95%;
+    }
+    #top{
+        padding-right: 5px;
+    }
+    #bottom{
+        padding-left: 5px;
+        height: 100%;
+        border-left: 1px solid;
+    }
+}
+@media screen and (max-width: 877px){
+    #header-nav #nav{
+        display: none;
+    }
+    #header-nav #logo{
+        width: 60%;
+    }
+    #header-nav #search{
+        width: 30%;
+    }
+}
+@media screen and (max-width: 715px){
+    #main-section{
+        height: 50%;
+    }
+    #img-left-section{
+        height: 20%;
+    }
+    #img-left-section img{
+        height: 50px;
+        width: 50px;
+    }
+    #right-main-section{
+
+        height: 40%;
+        
+    }
+}
